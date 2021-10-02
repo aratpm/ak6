@@ -1,6 +1,6 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/ak6/",
-"linktwo":"https://www.google.com/",
+"linkone":"https://www.mwallpapers.com",
+"linktwo":"https://aratpm.github.io/ak6/",
 
 "appId":"ca-app-pub-2449640894622823~4324165573",
 "banner":"ca-app-pub-2449640894622823/5445675557",
